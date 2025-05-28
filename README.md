@@ -4,11 +4,14 @@
     </picture> 
     About me 
 </h1>
+<picture> <img align="right" src=" https://pixabay.com/gifs/graphics-card-gpu-video-card-14927/" width = 250px></picture>
+
+<br>
 
 - 🔭 I'm a Software Developer.
 - 🤝 A `Leader` with a strong `Organization` sense.
 - 💬 I'm currently learning `data analysis` and `AI`.
-- ⚡ Always up-to-date with the `latest technologies`.
+- ⚡ Always up-to-date with the `latest technologies`. 
 
 <br>
 <br>
