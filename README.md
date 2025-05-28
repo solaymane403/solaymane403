@@ -4,7 +4,17 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NZv8DQuxcy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16Lp1ZDh2a/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/solymane__?igsh=MW5qcXR3YnZsZGd1ag%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soulaiman-haddach-b84813258/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/moharej14) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@mhjx777-e) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soulaimanok@gmail.com) 
+<h1>
+    <picture>
+        <img src = "https://i.pinimg.com/originals/c7/eb/a5/c7eba52aa8951003b993b17ee61a4fe6.gif" width = 50px>
+    </picture> 
+    My contributions 
+</h1>
 
+
+![snake graph](https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake-dark.svg)
+![Tisma's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatisAgr&custom_title=Tisma's%20GitHub%20Activity%20Graph%20Last%20Month&bg_color=0D1117&color=7F3FBF&line=2a7ef7&point=fff&area_color=FFFFFF&title_color=FFFFFF&hide_border=true&border_radius=15)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatisAgr&theme=meta-dark&border_radius=15&card_width=1000&hide_border=true)](https://github-readme-streak-stats.herokuapp.com?user=MatisAgr&theme=meta-dark&border_radius=15&card_width=1000&hide_border=true)
 <h1>
     <picture>
         <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRta2VhcWIxbmt1cWo1cTJ0anp5dTJrY3ZtOXFyY2pxeHI2eG9kcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLNVpwFasrCB5jbQVp/giphy.webp" width = 50px>
