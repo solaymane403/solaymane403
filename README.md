@@ -5,7 +5,7 @@
     About me 
 </h1>
 
-<picture> <img align="right" src="https://github.com/moahrej141/for-img/blob/4d369e5f20bb2865da9ed13c4201a923c9d5dee1/giphy.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/moahrej141/for-img/blob/4d369e5f20bb2865da9ed13c4201a923c9d5dee1/giphy (1).gif?raw=true" width = 250px></picture>
 
 <br>
 
