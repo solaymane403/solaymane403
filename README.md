@@ -1,14 +1,14 @@
 <h1>
     <picture>
-        <img src = "https://media.tenor.com/chfzEVhXQloAAAAi/animated-man-running.gif" width = 50px>
+        <img src = "https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width = 50px>
     </picture> 
     About me 
 </h1>
 
-🔭 I'm a Software Developer.
--🤝 A `Leader` with a strong `Organization` sense.
--💬 I'm currently learning `data analysis` and `AI`.
--⚡ Always up-to-date with the `latest technologies`.
+- 🔭 I'm a Software Developer.
+- 🤝 A `Leader` with a strong `Organization` sense.
+- 💬 I'm currently learning `data analysis` and `AI`.
+- ⚡ Always up-to-date with the `latest technologies`.
 
 <br>
 <br>
