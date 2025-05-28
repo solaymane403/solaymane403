@@ -1,14 +1,7 @@
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+# 💫 About Me:
+🔭 I'm a Software Developer.<br>🤝 A leader with a strong organizational sense.<br>💬 I'm currently learning data analysis and AI.<br>⚡ Always up-to-date with the latest technologies.
 
-<br>
 
-- 🏫 I am a `Full-Stack Developer` at *IPSSI Paris School* <a href="https://ecole-ipssi.com//"><img src="https://ac24f38e.delivery.rocketcdn.me/wp-content/uploads/2021/11/ipssi-logo.png" height="18px"/></a>
-- 🗿 Natural `Leader` with a strong sense of `Organization`.
-- 🧑‍🎓 I’m currently learning `Big data and IA`.
-- 🤓 Always up-to-date with the `latest technologies`.
-- 📊 Data and Stats `Lover ❤️`. 
-<br>
-<br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NZv8DQuxcy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16Lp1ZDh2a/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/solymane__?igsh=MW5qcXR3YnZsZGd1ag%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soulaiman-haddach-b84813258/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/moharej14) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@mhjx777-e) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soulaimanok@gmail.com) 
 <h1>
