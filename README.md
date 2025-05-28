@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I'm a Software Developer.<br>🤝 A leader with a strong organizational sense.<br>💬 I'm currently learning data analysis and AI.<br>⚡ Always up-to-date with the latest technologies.
+🔭 I'm a Software Developer.
+-🤝 A `Leader` with a strong `Organization` sense.
+-💬 I'm currently learning `data analysis` and `AI`.
+-⚡ Always up-to-date with the `latest technologies`.
+
 
 
 ## 🌐 Socials:
