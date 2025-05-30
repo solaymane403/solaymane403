@@ -11,7 +11,6 @@
 
 - 🔭 I'm a Software Developer.
 - 🤝 A `Leader` with a strong `Organization` sense.
-- 💬 I'm currently learning `data analysis` and `AI`.
 - ⚡ Always up-to-date with the `latest technologies`. 
 
 <br>
