@@ -109,8 +109,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=moahrej141&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=moahrej141&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=moahrej141&icon=0&color=1)](https://visitcount.itsvg.in)
