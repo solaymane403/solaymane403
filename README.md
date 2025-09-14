@@ -9,9 +9,11 @@
 
 <br>
 
-- 🔭 I'm a Software Developer.
-- 🤝 A `Leader` with a strong `Organization` sense.
-- ⚡ Always up-to-date with the `latest technologies`. 
+- 💻 `Web Developer` passionate about clean code and modern tech.
+- 🚀 Junior `Full-Stack Developer` | MERN & WordPress.
+- 🌍 Open to `freelance` & `remote` opportunities.
+- 🔧 `Problem-solver` with a practical mindset.
+- 📚 Always `learning`, always improving.
 
 <br>
 <br>
