@@ -1,117 +1,146 @@
+<div align="center">
 
+# 👋 Hey, I'm Soulaiman Haddach
 
-# 🌌 About Me
+### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-<picture>
-  <source srcset="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" media="(prefers-color-scheme: dark)">
-  <img src="https://cdn.pixabay.com/animation/2023/05/25/09/35/09-35-39-25_512.gif" width="60" />
-</picture>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=440&lines=MERN+Stack+Developer;WordPress+Specialist;Always+Learning+New+Tech;Open+to+Remote+Work" alt="Typing SVG" />
 
-<picture>
-  <img align="right" width="260" src="https://github.com/moahrej141/for-img/blob/b20564c1772844b141781ca1e9b5d0eeb8524f64/giphy%20(1).gif?raw=true">
-</picture>
-
-* 💻 Web Developer focused on **clean code & modern UI**
-* 🚀 Junior **Full-Stack Developer** | MERN • WordPress
-* 🌍 Open to **remote work** & **freelance missions**
-* 🔧 Practical **problem-solver**
-* 📚 Always learning, always improving
+</div>
 
 ---
 
-# 🌐 Socials
+## 🚀 About Me
 
-<p align="left">
+```typescript
+const soulaiman = {
+    role: "Full-Stack Developer",
+    location: "Tétouan, Morocco 🇲🇦",
+    currentFocus: ["React", "Node.js", "TypeScript", "Clean Code"],
+    availability: "Open for freelance & remote opportunities",
+    mindset: "Continuous learner | Practical problem-solver",
+    funFact: "I debug with console.log and I'm not ashamed 😄"
+};
+```
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord\&logoColor=white)](https://discord.gg/NZv8DQuxcy)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook\&logoColor=white)](https://www.facebook.com/share/16Lp1ZDh2a/?mibextid=wwXIfr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/solymane__?igsh=MW5qcXR3YnZsZGd1ag%3D%3D)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/soulaiman-haddach-b84813258/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch\&logoColor=white)](https://www.twitch.tv/moharej14)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://www.youtube.com/@mhjx777-e)
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:soulaimanok@gmail.com)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-</p>
+### 💼 What I Do
 
----
+- 🎨 Build responsive, modern web applications
+- ⚡ Develop full-stack solutions with MERN
+- 🔧 Create custom WordPress themes & plugins
+- 📱 Work on React Native mobile apps
+- 🌐 Transform ideas into functional products
 
-# 🐍 My Contributions
+### 🎯 Current Goals
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+- 📚 Mastering advanced React patterns & TypeScript
+- 🔥 Contributing to open-source projects
+- 🌱 Learning cloud architecture (AWS/Azure)
+- 💡 Building SaaS products
 
----
-
-# 🧠 My Skills
-
-## 🌐 Languages
-
-<p align="center">
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnubash\&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-0A0A0A?style=for-the-badge\&logo=windows\&logoColor=white)
-![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![TSX](https://img.shields.io/badge/TSX-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-
-</p>
+<br clear="right"/>
 
 ---
 
-## 🛠️ Frameworks
+## 🛠️ Tech Stack
 
-<p align="center">
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-6366F1?style=for-the-badge\&logo=vite\&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-111?style=for-the-badge\&logo=symfony\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Tools</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
 
 ---
 
-## ⚙️ Utilities
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moahrej141&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moahrej141&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
 
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge\&logo=postman\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moahrej141&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=moahrej141&theme=algolia&no-frame=true&margin-w=10" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moahrej141&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-<p align="center">
+## 📈 Contribution Graph
 
-[![](https://visitcount.itsvg.in/api?id=moahrej141\&icon=2\&color=9)](https://visitcount.itsvg.in)
+<div align="center">
+  
+![Snake animation](https://github.com/moahrej141/moahrej141/blob/output/github-contribution-grid-snake-dark.svg)
 
-</p>
+</div>
 
+---
 
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soulaiman-haddach-b84813258/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soulaimanok@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/solymane__)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NZv8DQuxcy)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mhjx777-e)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=moahrej141&color=6C63FF&style=for-the-badge)
+
+---
+
+**✨ "Code is like humor. When you have to explain it, it's bad." - Cory House**
+
+</div>
