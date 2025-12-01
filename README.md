@@ -25,23 +25,22 @@ const soulaiman = {
 ````
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
+### 💼 What I Do
 
-💼 What I Do
+* Build responsive & modern websites
+* Full-stack MERN applications
+* Custom WordPress themes & plugins
+* React Native mobile apps
+* Deploy & optimize production apps
 
-🎨 Build responsive, modern web applications
-⚡ Develop full-stack solutions with MERN
-🔧 Create custom WordPress themes & plugins
-📱 Work on React Native mobile apps
-🌐 Transform ideas into functional products
+### 🎯 Current Goals
 
-🎯 Current Goals
-
-📚 Mastering advanced React patterns & TypeScript
-🔥 Contributing to open-source projects
-🌱 Learning cloud architecture (AWS/Azure)
-💡 Building SaaS products
+* Master advanced React & TypeScript
+* Contribute to open source
+* Learn cloud (AWS / Azure)
+* Build SaaS products
 
 <br clear="right"/>
 
