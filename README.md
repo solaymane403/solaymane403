@@ -111,11 +111,12 @@ const soulaiman = {
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/moahrej141/moahrej141/output/github-contribution-grid-snake.svg" />
-
-</div>
+![snake graph](https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake-dark.svg)
+<h1>
+    <picture>
+        <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRta2VhcWIxbmt1cWo1cTJ0anp5dTJrY3ZtOXFyY2pxeHI2eG9kcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLNVpwFasrCB5jbQVp/giphy.webp" width = 50px>
+    </picture> 
+</h1>
 
 ---
 
