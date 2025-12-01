@@ -156,7 +156,6 @@ const soulaiman = {
 
 ### 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=solaymane403&color=6C63FF&style=for-the-badge"/>
+[![btn](https://img.shields.io/badge/btn-0077B5?style=for-the-badge\&logo=btn)](https://www.linkedin.com/in/soulaiman-haddach-06a15b387/)
 
 </div>
-```
