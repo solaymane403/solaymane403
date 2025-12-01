@@ -72,8 +72,8 @@ const soulaiman = {
 
 </div>
 <div align="center">
-  <br>  
-### 🛠️ Frameworks
+  
+🛠️ Frameworks
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -90,8 +90,8 @@ const soulaiman = {
 </div>
 
 <div align="center">
-    <br>
-###  Utilities
+
+🔥 Utilities
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -136,7 +136,7 @@ const soulaiman = {
 
 <div align="center">
   
-<br>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/soulaiman-haddach-06a15b387/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:soulaimanok@gmail.com)
