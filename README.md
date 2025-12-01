@@ -120,10 +120,6 @@ const soulaiman = {
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=solaymane403\&icon=0\&color=1)](https://visitcount.itsvg.in)
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
