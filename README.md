@@ -86,7 +86,6 @@ const soulaiman = {
 
 ## 🔥 Utilities
 
-*(kept all your tools — fully formatted and aligned)*
 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
@@ -94,12 +93,10 @@ const soulaiman = {
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge\&logo=gitlab\&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge\&logo=laragon\&logoColor=white)
 ![WAMP](https://img.shields.io/badge/WAMP-FF4088?style=for-the-badge\&logo=wampserver\&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-239120?style=for-the-badge\&logo=githubcopilot\&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
-![NGrok](https://img.shields.io/badge/ngrok-1F1E3F?style=for-the-badge\&logo=ngrok\&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
 ![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge\&logo=phpmyadmin\&logoColor=white)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge\&logo=heidisql\&logoColor=white)
