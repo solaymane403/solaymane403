@@ -156,6 +156,6 @@ const soulaiman = {
 
 ### 👀 Profile Views
 
-[![btn](https://img.shields.io/badge/btn-0077B5?style=for-the-badge\&logo=btn)](https://www.linkedin.com/in/soulaiman-haddach-06a15b387/)
+[![btn](https://img.shields.io/badge/btn-0077B5?style=for-the-badge\&logo=click)](https://github.com/solaymane403)
 
 </div>
