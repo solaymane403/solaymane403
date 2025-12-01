@@ -5,7 +5,7 @@
 
 ### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-<img align="right" src="https://github.com/moahrej141/for-img/blob/b20564c1772844b141781ca1e9b5d0eeb8524f64/giphy%20(1).gif?raw=true" width = 250px>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=460&lines=MERN+Stack+Developer;WordPress+Specialist;Always+Learning+Tech;Open+to+Remote+Work" />
 
 </div>
 
@@ -24,6 +24,7 @@ const soulaiman = {
 ````
 
 
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ### 💼 What I Do
 
