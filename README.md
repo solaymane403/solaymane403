@@ -23,7 +23,6 @@ const soulaiman = {
   funFact: "I debug with console.log 😄",
 };
 ````
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 💼 What I Do
 
@@ -41,7 +40,6 @@ const soulaiman = {
 💡 Building SaaS products
 
 <br clear="right"/>
-
 ---
 ## 🐍 Contribution Graph
 
