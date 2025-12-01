@@ -5,7 +5,7 @@
 
 ### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=460&lines=MERN+Stack+Developer;WordPress+Specialist;Always+Learning+Tech;Open+to+Remote+Work" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=460&lines=MERN+Stack+Developer;Pc+building;Always+Learning+Tech;Open+to+Remote+Work" />
 
 </div>
 
