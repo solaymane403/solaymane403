@@ -44,7 +44,14 @@ const soulaiman = {
 <br clear="right"/>
 
 ---
+## 🐍 Contribution Graph
 
+![snake graph](https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake-dark.svg)
+<h1>
+    <picture>
+        <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRta2VhcWIxbmt1cWo1cTJ0anp5dTJrY3ZtOXFyY2pxeHI2eG9kcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLNVpwFasrCB5jbQVp/giphy.webp" width = 50px>
+    </picture> 
+</h1>
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
@@ -74,49 +81,6 @@ const soulaiman = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman)
-
----
-
-## 📊 GitHub Stats (Auto Light/Dark Mode)
-
-<div align="center">
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=moahrej141&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moahrej141&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=moahrej141&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=moahrej141&theme=algolia&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-![snake graph](https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake-dark.svg)
-<h1>
-    <picture>
-        <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRta2VhcWIxbmt1cWo1cTJ0anp5dTJrY3ZtOXFyY2pxeHI2eG9kcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLNVpwFasrCB5jbQVp/giphy.webp" width = 50px>
-    </picture> 
-</h1>
 
 ---
 
