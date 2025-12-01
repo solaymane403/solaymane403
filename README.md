@@ -79,16 +79,20 @@ const soulaiman = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moahrej141&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moahrej141&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moahrej141&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moahrej141&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moahrej141&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moahrej141&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=moahrej141&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=moahrej141&theme=radical&no-frame=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -97,7 +101,7 @@ const soulaiman = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/moahrej141/moahrej141/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/moahrej141/moahrej141/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
