@@ -42,7 +42,6 @@ const soulaiman = {
 
 
 ---
-## 🐍 Contribution Graph
 
 ![snake graph](https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake-dark.svg)
 <h1>
