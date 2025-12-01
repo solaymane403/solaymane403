@@ -42,13 +42,12 @@ const soulaiman = {
 
 ---
 
-## 🐍 Contribution Graph
-
-![snake graph](https://github.com/moahrej141/moahrej141/blob/output/github-contribution-grid-snake-dark.svg)
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRta2VhcWIxbmt1cWo1cTJ0anp5dTJrY3ZtOXFyY2pxeHI2eG9kcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLNVpwFasrCB5jbQVp/giphy.webp" width="60px" />
-</div>
+![snake graph](https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake-dark.svg)
+<h1>
+    <picture>
+        <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRta2VhcWIxbmt1cWo1cTJ0anp5dTJrY3ZtOXFyY2pxeHI2eG9kcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLNVpwFasrCB5jbQVp/giphy.webp" width = 50px>
+    </picture> 
+</h1>
 
 ---
 
@@ -120,7 +119,7 @@ const soulaiman = {
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=moahrej141\&theme=shades-of-purple\&no-frame=false\&no-bg=true\&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=solaymane403&theme=shades-of-purple&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -151,6 +150,6 @@ const soulaiman = {
 
 ### 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=moahrej141&style=for-the-badge&color=6C63FF"/>
+[![btn](https://img.shields.io/badge/click-0077B5?style=for-the-badge\&logo=click)](https://github.com/solaymane403)
 
 </div>
