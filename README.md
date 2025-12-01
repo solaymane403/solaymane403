@@ -4,9 +4,6 @@
 # 👋 Hey, I'm **Soulaiman Haddach**
 
 ### Full-Stack Developer | Problem Solver | Tech Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=460&lines=MERN+Stack+Developer;Pc+building;Always+Learning+Tech;Open+to+Remote+Work" />
-
 </div>
 
 ---
@@ -54,6 +51,7 @@ const soulaiman = {
     </picture> 
 </h1>
 
+<div align="center">
 ### 🌐 Languages
     
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -70,9 +68,7 @@ const soulaiman = {
 ![TSX](https://img.shields.io/badge/TSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
 
-</div>
-<div align="center">
-  
+
 🛠️ Frameworks
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -88,8 +84,6 @@ const soulaiman = {
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-</div>
-<div align="center">
 
 🔥 Utilities
 
