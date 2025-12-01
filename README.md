@@ -53,7 +53,6 @@ const soulaiman = {
         <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRta2VhcWIxbmt1cWo1cTJ0anp5dTJrY3ZtOXFyY2pxeHI2eG9kcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLNVpwFasrCB5jbQVp/giphy.webp" width = 50px>
     </picture> 
 </h1>
-## 🛠 Tech Stack
 
 ### 🌐 Languages
     
@@ -73,7 +72,7 @@ const soulaiman = {
 
 </div>
 <div align="center">
-    
+  <br>  
 ### 🛠️ Frameworks
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -91,7 +90,7 @@ const soulaiman = {
 </div>
 
 <div align="center">
-    
+    <br>
 ###  Utilities
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -136,6 +135,8 @@ const soulaiman = {
 ## 🤝 Connect With Me
 
 <div align="center">
+  
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/soulaiman-haddach-06a15b387/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:soulaimanok@gmail.com)
@@ -156,6 +157,6 @@ const soulaiman = {
 
 ### 👀 Profile Views
 
-[![btn](https://img.shields.io/badge/btn-0077B5?style=for-the-badge\&logo=click)](https://github.com/solaymane403)
+[![btn](https://img.shields.io/badge/click-0077B5?style=for-the-badge\&logo=click)](https://github.com/solaymane403)
 
 </div>
