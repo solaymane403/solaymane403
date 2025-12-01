@@ -5,7 +5,9 @@
 
 ### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
+<img align="right" src="https://github.com/moahrej141/for-img/blob/b20564c1772844b141781ca1e9b5d0eeb8524f64/giphy%20(1).gif?raw=true" width = 250px>
 
+</div>
 
 ---
 
@@ -162,4 +164,3 @@ const soulaiman = {
 
 </div>
 ```
-
